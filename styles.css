@@ -229,7 +229,7 @@
   }
   .nav-bar {
     height: 100px;
-    padding-top: 75px;
+    padding: 0 75px;
   }
   .links-menu {
     display: none;
